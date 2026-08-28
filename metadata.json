@@ -1,0 +1,6 @@
+{
+  "name": "Muscle Up — Fat Down",
+  "description": "At-home muscle building and fat burning fitness app featuring workout plans, exercise player, weight tracker, and streak gamification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
